@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&height=50&lines=Welcome+to+my+profile!;Exploring+Python+%26+Automation;Always+learning+something+new." alt="Typing SVG" />
+</p>
+
 ### 👋 Hey there, I'm Morin
 
 <p align="left">
@@ -20,7 +24,13 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=morin19072-lang&show_icons=true&theme=tokyonight&hide_border=true" />
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morin19072-lang&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morin19072-lang&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morin19072-lang&theme=tokyonight&hide_border=true" width="100%" />
 </p>
